@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="326dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/About_Img" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="276dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="388dp"
+            android:layout_gravity="center"
+            android:text="The Lotus Temple is a Baháʼí House of Worship in New Delhi, India. It was completed in December 1986. Notable for its lotus-like shape, it has become a prominent attraction in the city. Like all Bahá’í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification. The building is composed of 27 free-standing marble-clad arranged in clusters of three to form nine sides,[1] with nine doors opening onto a central hall with a height of slightly over 34 metres[1] and a capacity of 1,300 people.[2] The Lotus Temple has won numerous architectural awards[3][4] and has been featured in many newspaper and magazine articles"
+            android:textSize="20dp" />
+
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="162dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/About_Img" />
+</LinearLayout>

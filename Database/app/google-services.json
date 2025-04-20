@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1031719585663",
+    "firebase_url": "https://database-kotlin-8564b-default-rtdb.firebaseio.com",
+    "project_id": "database-kotlin-8564b",
+    "storage_bucket": "database-kotlin-8564b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031719585663:android:6c43df0075a4c329367c4a",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeOQ_dQwPbBL0sFBB0atFxbEJWOKewnkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
